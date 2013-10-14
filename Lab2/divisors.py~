@@ -1,0 +1,6 @@
+raw_input(n)
+n = raw_input("enter a number")
+for n in range(n):
+	print xrange + 1
+
+
